@@ -29,3 +29,34 @@ C:\Users\user\Documents\Project Biblioteca\ProyectBiblio\obj\Debug\net8.0\refint
 C:\Users\user\Documents\Project Biblioteca\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.pdb
 C:\Users\user\Documents\Project Biblioteca\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.genruntimeconfig.cache
 C:\Users\user\Documents\Project Biblioteca\ProyectBiblio\obj\Debug\net8.0\ref\ProyectBiblio.dll
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\bin\Debug\net8.0\appsettings.json
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\bin\Debug\net8.0\ProyectBiblio.staticwebassets.runtime.json
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\bin\Debug\net8.0\ProyectBiblio.exe
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\bin\Debug\net8.0\ProyectBiblio.deps.json
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\bin\Debug\net8.0\ProyectBiblio.runtimeconfig.json
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\bin\Debug\net8.0\ProyectBiblio.dll
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\bin\Debug\net8.0\ProyectBiblio.pdb
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.AssemblyInfoInputs.cache
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.AssemblyInfo.cs
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.csproj.CoreCompileInputs.cache
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.RazorAssemblyInfo.cache
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.RazorAssemblyInfo.cs
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.sourcelink.json
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\staticwebassets\msbuild.ProyectBiblio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectBiblio.props
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectBiblio.props
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectBiblio.props
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\scopedcss\bundle\ProyectBiblio.styles.css
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\scopedcss\projectbundle\ProyectBiblio.bundle.scp.css
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.dll
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\refint\ProyectBiblio.dll
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.pdb
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ProyectBiblio.genruntimeconfig.cache
+C:\Users\Duvan\OneDrive\Desktop\ProyectBiblio\obj\Debug\net8.0\ref\ProyectBiblio.dll

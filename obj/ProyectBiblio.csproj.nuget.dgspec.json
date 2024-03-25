@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\Project Biblioteca\\ProyectBiblio\\ProyectBiblio.csproj": {}
+    "C:\\Users\\Duvan\\OneDrive\\Desktop\\ProyectBiblio\\ProyectBiblio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\Project Biblioteca\\ProyectBiblio\\ProyectBiblio.csproj": {
+    "C:\\Users\\Duvan\\OneDrive\\Desktop\\ProyectBiblio\\ProyectBiblio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\Project Biblioteca\\ProyectBiblio\\ProyectBiblio.csproj",
+        "projectUniqueName": "C:\\Users\\Duvan\\OneDrive\\Desktop\\ProyectBiblio\\ProyectBiblio.csproj",
         "projectName": "ProyectBiblio",
-        "projectPath": "C:\\Users\\user\\Documents\\Project Biblioteca\\ProyectBiblio\\ProyectBiblio.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\Project Biblioteca\\ProyectBiblio\\obj\\",
+        "projectPath": "C:\\Users\\Duvan\\OneDrive\\Desktop\\ProyectBiblio\\ProyectBiblio.csproj",
+        "packagesPath": "C:\\Users\\Duvan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Duvan\\OneDrive\\Desktop\\ProyectBiblio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Duvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
